@@ -1,0 +1,9 @@
+.jumbotron {
+  text-align: center;
+}
+
+#output {
+  padding-top: 20px;
+  font-size: 24px;
+  color: FireBrick;
+}
